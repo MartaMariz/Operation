@@ -8,6 +8,6 @@ public class Application {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-        System.out.println(a + b);
+        System.out.println("Result: " + (a + b));
     }
 }
