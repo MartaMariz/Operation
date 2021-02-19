@@ -1,2 +1,0 @@
-# Operation
-Exercício SOPE
